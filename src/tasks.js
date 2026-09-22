@@ -1,4 +1,4 @@
-// AFTER — clear names, no magic numbers, no secrets
+// AFTER - clear names, no magic numbers, no secrets
 const VIP_DISCOUNT = 0.1;
 
 function calculateTotal(price, quantity, customerType) {
@@ -11,4 +11,4 @@ function calculateTotal(price, quantity, customerType) {
     : subtotal;
 }
 
-// The API key comes from an environment variable (e.g. process.env.API_KEY) — never hard-coded.
+// The API key comes from an environment variable (e.g. process.env.API_KEY) - never hard-coded.
