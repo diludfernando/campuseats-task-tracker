@@ -1,0 +1,12 @@
+{
+  "name": "campuseats-task-tracker",
+  "version": "1.0.0",
+  "description": "CampusEats Task Tracker team repository",
+  "main": "src/task.js",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
